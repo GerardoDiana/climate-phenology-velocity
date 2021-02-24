@@ -1,0 +1,4 @@
+*.RData
+/Images
+/Posterior_Parameters
+/traceplots
